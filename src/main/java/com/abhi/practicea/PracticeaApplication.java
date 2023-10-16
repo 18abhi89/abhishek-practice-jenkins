@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PracticeaApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(PracticeaApplication.class, args);
+
+		System.out.println("hi how are you?");
 	}
 
 }
